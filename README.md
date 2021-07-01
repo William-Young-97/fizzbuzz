@@ -1,6 +1,6 @@
 # Fizzbuzz test
 
-This simple program will print "fizz" on multiples of 3 and "buzz" on multiples of 5. On multiples of 5 and 3 it will print "fizzbuzz". The main purpose of this program was to practice test driven development (TDD), using Rspec. 
+This simple program will print "fizz" on multiples of 3 and "buzz" on multiples of 5. On multiples of 5 and 3 it will print "fizzbuzz". The main purpose of this program was to practice test driven development (TDD) using Rspec. 
 
 ## Objectives
 
