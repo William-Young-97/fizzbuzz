@@ -13,6 +13,11 @@ This simple program will print "fizz" on multiples of 3 and "buzz" on multiples 
 - Ruby
 - Rspec
 
+## Contributers
+
+- Karim Abu-Seer @ karimabuseer
+- William Young @ William-Young-97
+
 ## Conclusion
 
 Fizzbuzz is a fantastic program to begin learning TDD with. It stays simple, whilst introducing key TDD process and Rspec syntax.
